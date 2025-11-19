@@ -1,5 +1,7 @@
 # Formula 1 Crash Predictor
 
+(old project i had not had on github before, explaining commit history)
+
 Machine learning pipeline for predicting F1 crash likelihood using telemetry data from the OpenF1 API.
 
 ## Overview
